@@ -31,13 +31,13 @@ After building the project, you can run the CLI tool using:
 2. Fetch an account address:
 
    ```
-   solana-cli-tool fetch --account <PUBLIC_KEY>
+   solana-cli-tool fetch --w <PUBLIC_KEY>
    ```
 
 3. Fund an account (request airdrop):
 
    ```
-   solana-cli-tool fund --account <PUBLIC_KEY> --amount <AMOUNT>
+   solana-cli-tool fund --w <PUBLIC_KEY> --amount <AMOUNT>
    ```
 
 4. Send funds:
@@ -49,13 +49,13 @@ After building the project, you can run the CLI tool using:
 5. Check account balance:
 
    ```
-   solana-cli-tool check --account <PUBLIC_KEY>
+   solana-cli-tool check --w <PUBLIC_KEY>
    ```
 
 6. List saved accounts:
 
    ```
-   solana-cli-tool list-accounts [--file <FILE>]
+   solana-cli-tool list [--file <FILE>]
    ```
 
 7. Update network settings:
