@@ -1,7 +1,7 @@
 # Fellowship
 
 
-- [ ] s1 Introduction
+- [x] s1 Introduction Dapp Dev
 - [ ] s2 Token Program
 - [ ] s3 Onchain Introduction
 - [ ] s4 Onchain Introduction Native
