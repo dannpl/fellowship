@@ -4,7 +4,7 @@
 - [x] S2 SPL Tokens & Token Program
 - [x] S3 Onchain Introduction
 - [x] S4 Onchain Introduction Native
-- [ ] S5 Introduction to Program Security
+- [x] S5 Introduction to Program Security
 - [ ] S6 Solana Pay
 - [ ] S7 Solana Mobile Dev
 - [ ] S8 Compressed NFTS
