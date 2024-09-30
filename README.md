@@ -7,6 +7,6 @@
 - [x] S5 Introduction to Program Security
 - [x] S6 Solana Pay
 - [ ] S7 Solana Mobile Dev
-- [ ] S8 Compressed NFTS
+- [x] S8 Compressed NFTS
 
 Timeline: https://superteamdao.notion.site/Solana-Summer-Fellowship-Timeline-b413f4c7e96b4bdf8b9856ba7330c0e0
