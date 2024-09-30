@@ -2,7 +2,7 @@
 
 - [x] S1 Introduction Dapp Dev
 - [x] S2 SPL Tokens & Token Program
-- [ ] S3 Onchain Introduction
+- [x] S3 Onchain Introduction
 - [ ] S4 Onchain Introduction Native
 - [ ] S5 Introduction to Program Security
 - [ ] S6 Solana Pay
