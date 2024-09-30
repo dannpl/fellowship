@@ -5,7 +5,7 @@
 - [x] S3 Onchain Introduction
 - [x] S4 Onchain Introduction Native
 - [x] S5 Introduction to Program Security
-- [ ] S6 Solana Pay
+- [x] S6 Solana Pay
 - [ ] S7 Solana Mobile Dev
 - [ ] S8 Compressed NFTS
 
